@@ -1,0 +1,2 @@
+# aliaser
+some alias commends 
